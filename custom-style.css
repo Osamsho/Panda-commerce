@@ -11,3 +11,7 @@
 .pink-panda-text{
     color:#ff1570;
 }
+.email-control{
+    outline: none;
+    border:1px solid aquamarine;
+}
