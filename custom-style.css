@@ -1,0 +1,13 @@
+
+.panda-bg{
+    background-color:#fceae8 ;
+}
+
+.pink-panda-bg{  /*  all the buttons  */
+    background-image: linear-gradient(#ff1570, #f5438d);
+    color:white;
+    padding:9px 20px;
+}
+.pink-panda-text{
+    color:#ff1570;
+}
